@@ -3,4 +3,5 @@
 <h2> Glad to see you here </h2>
 <h2> Test awsome build </h2>
 <h2> Test deployment with ansible on aws </h2>
+<h2> Test deployment with ansible on aws. Cleaning images </h2>
 
