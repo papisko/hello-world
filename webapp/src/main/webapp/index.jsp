@@ -6,4 +6,5 @@
 <h2> Test deployment with ansible on aws. Cleaning images </h2>
 <h2> Deploying using ansible playbook with Poll SCM </h2>
 <h2> Deploying on Kubernetes using ansible playbook with Poll SCM </h2>
+<h2> Deploying on Kubernetes using ansible playbook with Poll SCM  with Rolling updates on Kubernetes</h2>
 
