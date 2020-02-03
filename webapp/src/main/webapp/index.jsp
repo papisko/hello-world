@@ -7,4 +7,5 @@
 <h2> Deploying using ansible playbook with Poll SCM </h2>
 <h2> Deploying on Kubernetes using ansible playbook with Poll SCM </h2>
 <h2> Deploying on Kubernetes using ansible playbook with Poll SCM  with Rolling updates on Kubernetes</h2>
+<h2> Deploying on Kubernetes retesting</h2>
 
